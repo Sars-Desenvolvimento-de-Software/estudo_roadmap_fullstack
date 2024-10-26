@@ -127,6 +127,6 @@ Seja detalhista e busque pensar em como a música passa por todos os componentes
 
 <div style="text-align: center;">
 
-   [<<< Anterior: Introdução](./ciclo-01-001-Introdução.md) ::::::::::::: [Próximo: Plataformas >>>](./ciclo-01-002-Arquitetura-De-Computadores.md)
+   [<<< Anterior: Introdução](./ciclo-01-001-Introdução.md) ::::::::::::: [Próximo: Plataformas >>>](./ciclo01-003-Plataformas.md)
 
 </div>
