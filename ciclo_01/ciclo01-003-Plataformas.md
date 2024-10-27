@@ -190,6 +190,6 @@ Não precisa se preocupar sobre ter que programar de forma diferente ou em detal
 
 <div style="text-align: center;">
 
-   [<<< Anterior: Arquitetura de Computadores](./ciclo-01-002-Arquitetura-De-Computadores.md) ::::::::::::: [Próximo: Lógica de Programação >>>](./ciclo01-003-Plataformas.md)
+   [<<< Anterior: Arquitetura de Computadores](./ciclo-01-002-Arquitetura-De-Computadores.md) ::::::::::::: [Próximo: Lógica de Programação >>>](./ciclo01-004-Lógica-De-Programação.md)
 
 </div>
