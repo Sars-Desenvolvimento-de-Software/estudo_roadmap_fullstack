@@ -112,9 +112,11 @@ Agora vamos ter nosso primeiro contato com a linguagem de programação javascri
 
 2️⃣ Independente do site em que esteja digite Ctrl + Shift + i (isso deve abrir a tela lateral de ferramentas do desenvolvedor)
 
-3️⃣ Clique na frente do simbolo ">" e digite `let meunome = "Sei lá meu nome"` e pressione enter
+3️⃣ Caso não haja um espaço em branco com o caractere `>`, verifique na parte superior da tela e clique na opção console
 
-4️⃣ Agora digite `console.log(meunome)` e pressione enter
+4️⃣ Clique na frente do simbolo ">" e digite `let meunome = "Sei lá meu nome"` e pressione enter
+
+5️⃣ Agora digite `console.log(meunome)` e pressione enter
 
 🏁 O texto que digitou depois do simbolo de "=" aparecerá na linha de baixo, e isso foi seu primeiro contato com javascript, mesmo sem saber você acabou de criar uma variável, adicionar um valor nela e depois exibir ela no console usando o comando console.log() 👏
 

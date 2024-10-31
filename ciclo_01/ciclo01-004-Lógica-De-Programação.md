@@ -249,6 +249,6 @@ __Dica__: Usando a tabela [ASCII](https://www.ascii-code.com/pt) que tem um valo
 
 <div style="text-align: center;">
 
-   [<<< Anterior: Plataformas](./ciclo01-003-Plataformas.md) ::::::::::::: [Próximo: Lógica de Programação >>>](./ciclo01-004-Lógica-De-Programação.md)
+   [<<< Anterior: Plataformas](./ciclo01-003-Plataformas.md) ::::::::::::: [Próximo: Linguagens na Programação >>>](./ciclo01-005-Linguagens-Na-Programação.md)
 
 </div>
